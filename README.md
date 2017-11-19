@@ -1,4 +1,5 @@
 # NumberFacts
 App built using Vanilla JS & Fetch
 
-http://www.web2dezine.com/NUMBERFACTS/
+<a href="http://www.web2dezine.com/NUMBERFACTS/" target="_blank">Try Me!</a>
+
